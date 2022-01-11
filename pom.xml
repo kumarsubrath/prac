@@ -38,7 +38,7 @@
 							<workerType>MICRO</workerType>
 							<workers>1</workers>
 							<muleVersion>4.4.0</muleVersion>
-							<applicationName>mvnsubratAssignment</applicationName>
+							<applicationName>practiceassign</applicationName>
 						</cloudHubDeployment>
 					</configuration>
 			</plugin>
